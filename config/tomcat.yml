@@ -22,7 +22,7 @@ tomcat:
   external_configuration_enabled: true
 external_configuration:
   version: 1.+
-  repository_root: https://github.com/HectorGuzman/tomcat.git
+  repository_root: https://github.com/HectorGuzman/tomcat/blob/master/index.yml
 lifecycle_support:
   version: 2.+
   repository_root: "{default.repository.root}/tomcat-lifecycle-support"
